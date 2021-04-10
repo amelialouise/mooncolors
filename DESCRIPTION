@@ -5,9 +5,9 @@ Authors@R:
     person(given = "Amelia",
            family = "Vargas",
            role = c("aut", "cre"),
-           email = "amelialouisevargas@gmail.com"
+           email = "amelialouisevargas@gmail.com")
 Description: Use various shades of brown, orange, red, pink, blue,
-and grey exhibited by the Full Moon in your beautiful plots.
+  and grey exhibited by the Full Moon in your beautiful plots.
 License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true
