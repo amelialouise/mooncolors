@@ -5,4 +5,4 @@
 #'
 #' @format A character vector containing 48 color hexcodes.
 #' @source \url{https://greenflash.photo/greenflash-gallery/greenflash-gallery/portfolio/colors-of-the-moon/}
-"moon_colors"
+"mooncolors"
